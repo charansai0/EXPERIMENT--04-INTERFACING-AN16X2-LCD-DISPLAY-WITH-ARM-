@@ -210,7 +210,9 @@ int main(void)
  ![led off](https://user-images.githubusercontent.com/94296221/234925842-313d5810-9239-48e7-9a74-8d2918ad802b.png)
 
  ## LED ON CONDITION
- ![led on](https://user-images.githubusercontent.com/94296221/234925800-42e7186e-bf5c-42e5-bb5b-e307c488dbe9.png)
+
+![led onnn](https://user-images.githubusercontent.com/94296221/234929728-7bdf5c83-6d4f-44da-af6d-3601dfc058a7.png)
+
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![pdf](https://user-images.githubusercontent.com/94296221/234925927-f70f4547-b350-431a-96f6-6b9e8b595922.png)
